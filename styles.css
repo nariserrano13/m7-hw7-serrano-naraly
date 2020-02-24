@@ -7,4 +7,23 @@
 article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
     display:block;
 }
-
+body{
+	color: #efefef;
+	display: flex;
+	flex-direction: column;
+}
+header{
+	background-color: #E8A456;
+	height: 75px;
+	padding: 10px 0px 0px 15px;
+}
+main{
+	background-color: #A87296;
+	height: 75px;
+	padding: 10px 0px 0px 15px;
+}
+footer{
+	background-color: #DB5748;
+	height: 75px;
+	padding: 10px 0px 0px 15px;
+}
